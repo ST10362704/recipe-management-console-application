@@ -1,0 +1,16 @@
+# Recipe Management Console Application
+
+This is a simple console application for managing recipes. Users can enter recipe details, view the recipe, scale the recipe, reset ingredient quantities, and clear all data.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine.
+
+### Installing
+
+1. Clone the repository to your local machine:
+
